@@ -1,8 +1,6 @@
 # Programmingchallenges
 Inspired from the [programming challenges](https://github.com/Morasiu/ProgrammingChallenges/)
 
-[Roulette aléatoire](https://programming-challenges.jeremyjaydan.dev/)
-
 # List of challenges i've done :
 
 ## 58 : Game of life
