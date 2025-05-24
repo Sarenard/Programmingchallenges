@@ -1,6 +1,8 @@
 # Programmingchallenges
 Inspired from the [programming challenges](https://github.com/Morasiu/ProgrammingChallenges/)
 
+![list](challenges.jpg)
+
 # List of challenges i've done :
 
 ## 58 : Game of life
