@@ -28,3 +28,5 @@ Current Status : ![](https://img.shields.io/static/v1?label=&message=finished&co
 A [Chip-8 emulator](https://github.com/Sarenard/Chip-8) made in rust.
 
 Current Status : ![](https://img.shields.io/static/v1?label=&message=finished&color=green)
+
+The same [Chip-8 emulator](https://github.com/Sarenard/Chip8-ProfanOS) but made for [ProfanOS](https://github.com/elydre/profanOS)
